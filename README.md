@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--# 💫 About Me:
+💫 About Me:
 <br>👋 About Me<br><br>🔭 I’m currently working on<br>Building full-stack web applications and strengthening my problem-solving skills through data structures, algorithms, and real-world projects.<br><br>👯 I’m looking to collaborate on<br>Open-source projects, web applications, and beginner-to-intermediate level software development projects.<br><br>🤝 I’m looking for help with<br>Advanced backend development, system design fundamentals, and best practices for scalable applications.<br><br>🌱 I’m currently learning<br>Java, Python, C, C++, Web Development (HTML, CSS, JavaScript), UI/UX Design, and basic DevOps concepts.<br><br>💬 Ask me about<br>Web development basics, programming fundamentals, UI/UX design principles, and getting started with software projects.<br><br>⚡ Fun fact<br>I enjoy combining technology with creativity—coding by day and creating tech-related content and videos in my free time
 
 
